@@ -15,10 +15,10 @@ const Footer = () => {
           <div className="footer-img">
             <img src={logo} alt="footer logo" />
           </div>
-          <a href="mailto= support@joinshopline.com">
+          <a href="mailto:support@joinshopline.com">
             <li>support@joinshopline.com</li>
           </a>
-          <a href="tel= +256-75771-2667">
+          <a href="tel:256-75771-2667">
             <li>+256-75771-2667</li>
           </a>
         </div>
