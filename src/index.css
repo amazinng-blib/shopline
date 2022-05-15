@@ -305,7 +305,6 @@ svg {
 
 .sign-up input {
   padding: 0.5rem 1rem;
-  border: 2px solid blue;
   border-radius: 4px;
   border: transparent;
 }
@@ -317,7 +316,7 @@ svg {
 }
 .sign-up-btn {
   padding: 0.6rem 1.4rem;
-  border: transparent;
+  border: none;
   border-radius: 4px;
   background-color: rgb(236, 45, 45);
   margin-left: 1rem;
